@@ -1,0 +1,4 @@
+scriptPath,detail,startTime,endTime,duration
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/1.py,No exception in execute_script method.,2016-10-08 15:40:39.462236,2016-10-08 15:40:40.107386,0.64515
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/temp1/temp2/1.py,No exception in execute_script method.,2016-10-08 15:40:40.107582,2016-10-08 15:40:40.137275,0.029692999999999997
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/temp3/1.py,No exception in execute_script method.,2016-10-08 15:40:40.137463,2016-10-08 15:40:40.168597,0.031134

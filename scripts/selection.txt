@@ -1,3 +1,2 @@
-/Users/tylan/Desktop/Auty/scripts/scripts/1.py
-/Users/tylan/Desktop/Auty/scripts/scripts/temp1/temp2/1.py
-/Users/tylan/Desktop/Auty/scripts/scripts/temp3/1.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
