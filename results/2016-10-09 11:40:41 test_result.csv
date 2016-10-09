@@ -1,0 +1,4 @@
+scriptPath,detail,startTime,endTime,duration
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py,No exception in execute_script method.,2016-10-09 11:40:41.211736,2016-10-09 11:40:41.236295,0.024558999999999997
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-09 11:40:41.236446,2016-10-09 11:40:41.497591,0.26114499999999996
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-09 11:40:41.497717,2016-10-09 11:40:41.752697,0.25498

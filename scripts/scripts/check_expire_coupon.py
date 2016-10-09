@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-from execute_sql import exec_sql
+from utils.execute_sql import exec_sql
 from datetime import *
 import time
-from sql_info import dbStr,duobaoUser,couponUser,lotteryUser,historyUser
+from utils.sql_info import dbStr,duobaoUser,couponUser,lotteryUser,historyUser
 
 def check_expire_coupon(coupon_id_or_name):
     coupon_id_or_name = unicode(coupon_id_or_name, "utf-8")
@@ -20,4 +20,4 @@ def check_expire_coupon(coupon_id_or_name):
     return tip
         
 if __name__ == '__main__':
-  check_expire_coupon('2016050521CS00658580')
+    check_expire_coupon('2016050521CS00658580')

@@ -6,6 +6,7 @@ from utils.utils import str_2_tuple
 def exe_deco(func):
     def _deco(*args, **kwargs):
         result = ()
+        ret = None
         try:
             ret = func(*args, **kwargs)
         except Exception, e:

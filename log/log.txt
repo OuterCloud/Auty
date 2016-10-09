@@ -1,4 +1,154 @@
-2016-10-08 17:21:53execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
-2016-10-08 17:21:53No exception in execute_script method.
-2016-10-08 17:21:53execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
-2016-10-08 17:21:54No exception in execute_script method.
+2016-10-09 11:39:22execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:39:22No exception in execute_script method.
+2016-10-09 11:39:22execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:39:23No exception in execute_script method.
+2016-10-09 11:39:23execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:39:23No exception in execute_script method.
+2016-10-09 11:40:41execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:40:41No exception in execute_script method.
+2016-10-09 11:40:41execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:40:41No exception in execute_script method.
+2016-10-09 11:40:41execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:40:41No exception in execute_script method.
+2016-10-09 11:46:19execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:46:19No exception in execute_script method.
+2016-10-09 11:46:19execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:46:19No exception in execute_script method.
+2016-10-09 11:46:19execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:46:19No exception in execute_script method.
+2016-10-09 11:50:27execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:50:27No exception in execute_script method.
+2016-10-09 11:50:27execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:50:27No exception in execute_script method.
+2016-10-09 11:50:27execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:50:27No exception in execute_script method.
+2016-10-09 11:52:02execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:52:02No exception in execute_script method.
+2016-10-09 11:52:02execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:52:02No exception in execute_script method.
+2016-10-09 11:52:02execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:52:02No exception in execute_script method.
+2016-10-09 11:52:10execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:52:10No exception in execute_script method.
+2016-10-09 11:52:10execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:52:10No exception in execute_script method.
+2016-10-09 11:52:10execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:52:11No exception in execute_script method.
+2016-10-09 11:56:41execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 11:56:41No exception in execute_script method.
+2016-10-09 11:56:41execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 11:56:41No exception in execute_script method.
+2016-10-09 11:56:41execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 11:56:41No exception in execute_script method.
+2016-10-09 12:04:04execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 12:04:04No exception in execute_script method.
+2016-10-09 12:04:04execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 12:04:05No exception in execute_script method.
+2016-10-09 12:04:05execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 12:04:05No exception in execute_script method.
+2016-10-09 12:04:36execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 12:04:36No exception in execute_script method.
+2016-10-09 12:04:36execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 12:04:36No exception in execute_script method.
+2016-10-09 12:04:36execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 12:04:36No exception in execute_script method.
+2016-10-09 12:07:34execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 12:07:34No exception in execute_script method.
+2016-10-09 12:07:34execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 12:07:35No exception in execute_script method.
+2016-10-09 12:07:35execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 12:07:35No exception in execute_script method.
+2016-10-09 12:10:17execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 12:10:17No exception in execute_script method.
+2016-10-09 12:10:17execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 12:10:17No exception in execute_script method.
+2016-10-09 12:10:17execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 12:10:18No exception in execute_script method.
+2016-10-09 12:10:38execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 12:10:38No exception in execute_script method.
+2016-10-09 12:10:38execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 12:10:38No exception in execute_script method.
+2016-10-09 12:10:38execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 12:10:38No exception in execute_script method.
+2016-10-09 12:21:27execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 12:21:27No exception in execute_script method.
+2016-10-09 12:21:27execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 12:21:27No exception in execute_script method.
+2016-10-09 12:21:27execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 12:21:27No exception in execute_script method.
+2016-10-09 13:06:48execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 13:06:48No exception in execute_script method.
+2016-10-09 13:06:48execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 13:06:48No exception in execute_script method.
+2016-10-09 13:06:48execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 13:06:48No exception in execute_script method.
+2016-10-09 13:13:43execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 13:13:43Exception in execute_script method: dlopen(/Library/Python/2.7/site-packages/cx_Oracle.so, 2): Library not loaded: @rpath/libclntsh.dylib.12.1
+  Referenced from: /Library/Python/2.7/site-packages/cx_Oracle.so
+  Reason: image not found
+2016-10-09 13:14:16execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 13:14:16Exception in execute_script method: dlopen(/Library/Python/2.7/site-packages/cx_Oracle.so, 2): Library not loaded: @rpath/libclntsh.dylib.12.1
+  Referenced from: /Library/Python/2.7/site-packages/cx_Oracle.so
+  Reason: image not found
+2016-10-09 13:36:02execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 13:36:02No exception in execute_script method.
+2016-10-09 13:36:02execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 13:36:03No exception in execute_script method.
+2016-10-09 13:36:03execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 13:36:03No exception in execute_script method.
+2016-10-09 13:58:04Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 13:58:24Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:00:53Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:08:27Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:12:02Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:13:24Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:13:24Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:13:24Exception in execute_script method: global name 'autyPath' is not defined
+2016-10-09 14:19:43execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:19:44No exception in execute_script method.
+2016-10-09 14:19:44execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:19:44No exception in execute_script method.
+2016-10-09 14:19:44execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:19:44No exception in execute_script method.
+2016-10-09 14:20:16execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:20:16No exception in execute_script method.
+2016-10-09 14:20:16execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:20:16No exception in execute_script method.
+2016-10-09 14:20:16execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:20:16No exception in execute_script method.
+2016-10-09 14:22:59execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:22:59No exception in execute_script method.
+2016-10-09 14:22:59execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:22:59No exception in execute_script method.
+2016-10-09 14:22:59execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:22:59No exception in execute_script method.
+2016-10-09 14:25:09execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:25:09No exception in execute_script method.
+2016-10-09 14:25:09execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:25:09No exception in execute_script method.
+2016-10-09 14:25:09execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:25:09No exception in execute_script method.
+2016-10-09 14:25:56execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:25:56No exception in execute_script method.
+2016-10-09 14:25:56execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:25:56No exception in execute_script method.
+2016-10-09 14:25:56execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:25:56No exception in execute_script method.
+2016-10-09 14:27:35execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:27:36No exception in execute_script method.
+2016-10-09 14:27:36execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:27:37No exception in execute_script method.
+2016-10-09 14:27:37execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:27:37No exception in execute_script method.
+2016-10-09 14:29:08execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:29:09No exception in execute_script method.
+2016-10-09 14:29:09execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:29:09No exception in execute_script method.
+2016-10-09 14:29:09execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:29:10No exception in execute_script method.
+2016-10-09 14:30:31:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+2016-10-09 14:30:32:No exception in execute_script method.
+2016-10-09 14:30:32:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-09 14:30:32:No exception in execute_script method.
+2016-10-09 14:30:32:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-09 14:30:32:No exception in execute_script method.

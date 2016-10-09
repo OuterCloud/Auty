@@ -1,0 +1,4 @@
+scriptPath,detail,startTime,endTime,duration
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py,Exception in execute_script method: global name 'autyPath' is not defined,2016-10-09 14:13:24.807294,2016-10-09 14:13:24.807483,0.00018899999999999999
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,Exception in execute_script method: global name 'autyPath' is not defined,2016-10-09 14:13:24.807623,2016-10-09 14:13:24.807798,0.000175
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,Exception in execute_script method: global name 'autyPath' is not defined,2016-10-09 14:13:24.807960,2016-10-09 14:13:24.808113,0.000153

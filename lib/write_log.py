@@ -7,4 +7,4 @@ def write_log(log):
     logFilePath = os.path.join(os.path.dirname(filePath),'log','log.txt')
     print logFilePath
     execTime = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
-    open(logFilePath,'a').write(execTime+log+'\n')
+    open(logFilePath,'a').write(execTime+':'+log+'\n')
