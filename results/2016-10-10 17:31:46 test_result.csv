@@ -1,5 +1,0 @@
-scriptPath,detail,startTime,endTime,duration
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/__init__.py,Exception in execute_script method: [Errno 2] No such file or directory: '/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/__init__.py',2016-10-10 17:31:46.580075,2016-10-10 17:31:46.580204,0.000129
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-10 17:31:46.580347,2016-10-10 17:31:47.732580,0.15223299999999998
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-10 17:31:47.732710,2016-10-10 17:31:48.416587,0.683877
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-10 17:31:48.416694,2016-10-10 17:31:49.017698,0.601004

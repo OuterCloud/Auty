@@ -16,7 +16,7 @@ def check_if_python(fileName):
 	if fileName.endswith('.py'):
 		return True
 
-def  create_selection_file(selection):
+def create_selection_file(selection):
 	filePath = sys.path[0]+'/selection.txt'
 	file = open(filePath,'w')
 	for scriptPath in selection:

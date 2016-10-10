@@ -8,6 +8,7 @@ from utils.utils import str_2_tuple
 from utils.utils import get_local_time
 from utils.utils import get_specific_time
 from generate_result import generate_result
+import subprocess
 
 def execute_selection():
 	selection = read_selection()
@@ -20,14 +21,14 @@ def execute_selection():
 	open(pathFilePath,'w').write(writeContent)
 	#Result generation.
 	resultFilePath = os.path.join(autyPath,'results',resultFileName)
-	generate_result(resultFilePath,('scriptPath','detail','startTime','endTime','duration'))
+	generate_result(resultFilePath,('scriptPath','detail','startTime','endTime','duration','result'))
 	for scriptPath in selection:
 		result = str_2_tuple(scriptPath)
 		startTime = get_specific_time()
 		ret,result2 = execute_script(scriptPath,autyPath)
 		endTime = get_specific_time()
 		duration = (endTime-startTime).microseconds*0.000001
-		result = result+result2+str_2_tuple(startTime)+str_2_tuple(endTime)+str_2_tuple(duration)
+		result = result+result2+str_2_tuple(startTime)+str_2_tuple(endTime)+str_2_tuple(duration)+str_2_tuple(ret)
 		generate_result(resultFilePath,result)
 
 @exe_deco
@@ -40,7 +41,10 @@ def execute_script(scriptPath,autyPath):
 		modified.write(autyCode+data)
 	#Execute script.
 	write_log('execute_script: '+scriptPath)
-	os.system('python '+scriptPath)
+	print 'execute_script: '+scriptPath
+	stdout,stderr = subprocess.Popen(['python',scriptPath],stdout=subprocess.PIPE,stderr=subprocess.PIPE).communicate()
+	r = stdout+stderr
+	print r
 	#Auto-deleted code.
 	lines = open(scriptPath).readlines()
 	del lines[3]
@@ -48,3 +52,5 @@ def execute_script(scriptPath,autyPath):
 	del lines[1]
 	del lines[0]
 	open(scriptPath,'w').writelines(lines)
+	#Return the result.
+	return r

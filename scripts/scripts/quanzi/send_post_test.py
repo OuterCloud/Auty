@@ -6,6 +6,7 @@ from utils.execute_sql_mysql import exec_sql
 from utils.get_lottery_session_id import get_lottery_session_id
 import json
 from utils.get_lottery_user_id import get_lottery_user_id
+from utils.utils import tylan_assert
 
 def send_post_test(accountId):
 	s = requests.Session()
@@ -20,13 +21,12 @@ def send_post_test(accountId):
 		'boardId':'12'
 	}
 	r = s.post(url, data = data)
-	#print r.content
-	basic_assert(r)
+	return r
 
 def basic_assert(r):
 	jsonResult = json.loads(r.content)
-	assert jsonResult['resultDesc'] == u"发帖成功!"
-	assert jsonResult['result'] == 100
+	tylan_assert(jsonResult['resultDesc'],u"发帖成功!")
+	tylan_assert(jsonResult['result'],100)
 
 if __name__ == '__main__':
-    send_post_test('runcheck5@163.com')
+    basic_assert(send_post_test('runcheck5@163.com'))

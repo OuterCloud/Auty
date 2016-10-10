@@ -1,0 +1,42 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-10 22:30:58.323243,2016-10-10 22:30:59.046122,0.7228789999999999,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-10 22:30:59.046230,2016-10-10 22:30:59.633924,0.5876939999999999,"{""result"":100,""resultDesc"":""收藏成功!"",""collectStatus"":""1""}
+Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py"", line 41, in <module>
+    collect_assert(collect_post_test('runcheck5@163.com','1132664','1'))
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py"", line 30, in collect_assert
+    tylan_assert(jsonResult['resultDesc'],u""成功"")
+  File ""/Users/tylan/Desktop/myAuty/Auty/utils/utils.py"", line 17, in tylan_assert
+    print 'failed,actual result:'+str(actual).decode('UTF-8')
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-10 22:30:59.634042,2016-10-10 22:31:00.687230,0.053188,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-10 22:31:00.687327,2016-10-10 22:31:00.822609,0.13528199999999999,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-10 22:31:00.822728,2016-10-10 22:31:01.861146,0.038418,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-10 22:31:01.861248,2016-10-10 22:31:02.273838,0.41258999999999996,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-10 22:31:02.274011,2016-10-10 22:31:03.103749,0.829738,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-10 22:31:03.103890,2016-10-10 22:31:03.696912,0.5930219999999999,"Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py"", line 36, in <module>
+    basic_assert(send_post_test('runcheck5@163.com'))
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py"", line 32, in basic_assert
+    tylan_assert(jsonResult['resultDesc'],u""发帖成功!"")
+  File ""/Users/tylan/Desktop/myAuty/Auty/utils/utils.py"", line 17, in tylan_assert
+    print 'failed,actual result:'+str(actual).decode('UTF-8')
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-1: ordinal not in range(128)
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-10 22:31:03.697024,2016-10-10 22:31:04.283554,0.58653,"passed
+passed
+"

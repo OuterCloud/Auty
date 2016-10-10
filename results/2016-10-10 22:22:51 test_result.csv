@@ -1,0 +1,50 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-10 22:22:51.822607,2016-10-10 22:22:52.531794,0.709187,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-10 22:22:52.531911,2016-10-10 22:22:53.086630,0.554719,"<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+/circle_collectPost.html was not found on this server.
+<p /><hr />
+<small>
+Resin/3.1.14
+</small>
+</body></html>
+
+Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py"", line 41, in <module>
+    collect_assert(collect_post_test('runcheck5@163.com','1132664','1'))
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py"", line 29, in collect_assert
+    jsonResult = json.loads(r.content)
+  File ""/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py"", line 338, in loads
+    return _default_decoder.decode(s)
+  File ""/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py"", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File ""/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py"", line 384, in raw_decode
+    raise ValueError(""No JSON object could be decoded"")
+ValueError: No JSON object could be decoded
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-10 22:22:53.086745,2016-10-10 22:22:54.149109,0.062363999999999996,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-10 22:22:54.149203,2016-10-10 22:22:54.276689,0.127486,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-10 22:22:54.276801,2016-10-10 22:22:54.888656,0.6118549999999999,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-10 22:22:54.888750,2016-10-10 22:22:55.108495,0.219745,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-10 22:22:55.108591,2016-10-10 22:22:55.684708,0.576117,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-10 22:22:55.684807,2016-10-10 22:22:56.276545,0.591738,"failed
+failed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-10 22:22:56.276646,2016-10-10 22:22:56.866351,0.5897049999999999,"passed
+passed
+"
