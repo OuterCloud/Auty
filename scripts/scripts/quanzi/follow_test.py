@@ -6,16 +6,13 @@ from utils.execute_sql_mysql import exec_sql
 from utils.sql_info import qz_host,qz_user,qz_pwd,qz_db_name
 from utils.get_lottery_session_id import get_lottery_session_id
 import json
+from utils.get_lottery_user_id import get_lottery_user_id
 
 def follow_test(accountId,followAction):
 	s = requests.Session()
 	url = 'http://quanzi.caipiao.163.com/client_follow.html'
-	#Get userId from mysql db ts_user_info.
-	sql = 'select userid from ts_user_info where email = \''+accountId+'\''
-	r = exec_sql(sql,qz_host,qz_user,qz_pwd,qz_db_name)
-	userId = r[0][0]
 	data = {
-		'userId':userId,
+		'userId':get_lottery_user_id(accountId),
 		'userToken':get_lottery_session_id(accountId),
 		'followedUserId':'10105',
 		'followAction':followAction

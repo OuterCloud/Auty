@@ -7,17 +7,14 @@ from utils.get_lottery_session_id import get_lottery_session_id
 import json
 from utils.get_lottery_user_id import get_lottery_user_id
 
-def send_post_test(accountId):
+def post_info_test(accountId,postId,apiLevel):
 	s = requests.Session()
-	url = 'http://quanzi.caipiao.163.com/circle_sendPosts.html'
-	#sql = 'select column_name from information_schema.columns where table_name = \'ts_user_info\''
+	url = 'http://quanzi.caipiao.163.com/circle_postInfo.html'
 	data = {
 		'userId':get_lottery_user_id(accountId),
-		'category':'4',
-		'text':'Tylan python send_post_test',
-		'postType':'1',
 		'userToken':get_lottery_session_id(accountId),
-		'boardId':'12'
+		'postId':postId,
+		'apiLevel':apiLevel
 	}
 	r = s.post(url, data = data)
 	#print r.content
@@ -25,8 +22,8 @@ def send_post_test(accountId):
 
 def basic_assert(r):
 	jsonResult = json.loads(r.content)
-	assert jsonResult['resultDesc'] == u"发帖成功!"
+	assert jsonResult['resultDesc'] == u"获取帖子信息成功"
 	assert jsonResult['result'] == 100
 
 if __name__ == '__main__':
-    send_post_test('runcheck5@163.com')
+    post_info_test('runcheck5@163.com','1132635','27')

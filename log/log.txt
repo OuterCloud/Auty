@@ -13,3 +13,95 @@
 2016-10-10 17:31:48:No exception in execute_script method.
 2016-10-10 17:31:48:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
 2016-10-10 17:31:49:No exception in execute_script method.
+2016-10-10 17:46:20:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:46:20:No exception in execute_script method.
+2016-10-10 17:46:20:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:46:21:No exception in execute_script method.
+2016-10-10 17:46:21:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:46:22:No exception in execute_script method.
+2016-10-10 17:46:22:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:46:23:No exception in execute_script method.
+2016-10-10 17:46:49:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:46:49:No exception in execute_script method.
+2016-10-10 17:46:49:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:46:50:No exception in execute_script method.
+2016-10-10 17:46:50:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:46:51:No exception in execute_script method.
+2016-10-10 17:46:51:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:46:52:No exception in execute_script method.
+2016-10-10 17:47:01:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:47:02:No exception in execute_script method.
+2016-10-10 17:47:02:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:47:03:No exception in execute_script method.
+2016-10-10 17:47:03:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:47:04:No exception in execute_script method.
+2016-10-10 17:47:04:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:47:04:No exception in execute_script method.
+2016-10-10 17:47:21:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:47:22:No exception in execute_script method.
+2016-10-10 17:47:22:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:47:24:No exception in execute_script method.
+2016-10-10 17:47:24:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:47:25:No exception in execute_script method.
+2016-10-10 17:47:25:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:47:26:No exception in execute_script method.
+2016-10-10 17:57:51:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:57:51:No exception in execute_script method.
+2016-10-10 17:57:51:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:57:52:No exception in execute_script method.
+2016-10-10 17:57:52:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:57:53:No exception in execute_script method.
+2016-10-10 17:57:53:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:57:53:No exception in execute_script method.
+2016-10-10 17:58:46:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:58:46:No exception in execute_script method.
+2016-10-10 17:58:46:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:58:47:No exception in execute_script method.
+2016-10-10 17:58:47:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:58:47:No exception in execute_script method.
+2016-10-10 17:58:48:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:58:48:No exception in execute_script method.
+2016-10-10 17:59:16:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:59:17:No exception in execute_script method.
+2016-10-10 17:59:17:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:59:18:No exception in execute_script method.
+2016-10-10 17:59:18:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:59:18:No exception in execute_script method.
+2016-10-10 17:59:18:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:59:18:No exception in execute_script method.
+2016-10-10 17:59:38:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 17:59:38:No exception in execute_script method.
+2016-10-10 17:59:38:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 17:59:39:No exception in execute_script method.
+2016-10-10 17:59:39:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 17:59:40:No exception in execute_script method.
+2016-10-10 17:59:40:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 17:59:41:No exception in execute_script method.
+2016-10-10 18:01:56:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 18:01:57:No exception in execute_script method.
+2016-10-10 18:01:57:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 18:01:58:No exception in execute_script method.
+2016-10-10 18:01:58:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 18:01:59:No exception in execute_script method.
+2016-10-10 18:01:59:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 18:01:59:No exception in execute_script method.
+2016-10-10 18:05:19:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 18:05:20:No exception in execute_script method.
+2016-10-10 18:05:20:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 18:05:21:No exception in execute_script method.
+2016-10-10 18:05:21:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py
+2016-10-10 18:05:22:No exception in execute_script method.
+2016-10-10 18:05:22:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 18:05:22:No exception in execute_script method.
+2016-10-10 18:05:22:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 18:05:23:No exception in execute_script method.
+2016-10-10 18:05:36:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-10 18:05:37:No exception in execute_script method.
+2016-10-10 18:05:37:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-10 18:05:38:No exception in execute_script method.
+2016-10-10 18:05:38:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py
+2016-10-10 18:05:38:No exception in execute_script method.
+2016-10-10 18:05:38:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-10 18:05:39:No exception in execute_script method.
+2016-10-10 18:05:39:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-10 18:05:40:No exception in execute_script method.

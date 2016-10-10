@@ -9,18 +9,13 @@ import json
 from utils.root_path import autyPath
 import mimetypes
 from requests_toolbelt import MultipartEncoder
+from utils.get_lottery_user_id import get_lottery_user_id
 
 def upload_images_test(accountId,picPath):
 	s = requests.Session()
 	url = 'http://quanzi.caipiao.163.com/circle_upLoadImages.html'
-	#Get userId from mysql db ts_user_info.
-	sql = 'select userid from ts_user_info where email = \''+accountId+'\''
-	r = exec_sql(sql,qz_host,qz_user,qz_pwd,qz_db_name)
-	userId = r[0][0]
-	#print userId
-	#print get_lottery_session_id(accountId)
 	data = {
-		'userId':userId,
+		'userId':get_lottery_user_id(accountId),
 		'head':'1',
 		'userToken':get_lottery_session_id(accountId)
 	}

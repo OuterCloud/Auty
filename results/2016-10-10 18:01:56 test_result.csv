@@ -1,0 +1,5 @@
+scriptPath,detail,startTime,endTime,duration
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-10 18:01:56.771271,2016-10-10 18:01:57.424899,0.653628
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-10 18:01:57.424998,2016-10-10 18:01:58.509990,0.084992
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-10 18:01:58.510084,2016-10-10 18:01:59.196473,0.6863889999999999
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-10 18:01:59.196563,2016-10-10 18:01:59.769402,0.572839
