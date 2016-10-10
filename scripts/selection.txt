@@ -1,3 +1,4 @@
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/check_expire_coupon.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/__init__.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py

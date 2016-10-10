@@ -9,11 +9,16 @@ from utils.utils import get_local_time
 from utils.utils import get_specific_time
 from generate_result import generate_result
 
-def execute_selection(autyPath):
+def execute_selection():
 	selection = read_selection()
 	genTime = get_local_time()
 	resultFileName = genTime+' test_result.csv'
 	autyPath = os.getcwd()
+	#Save the auty path into file.
+	pathFilePath = os.path.join(autyPath,'utils','root_path.py')
+	writeContent = '# -*- coding: utf-8 -*-\n'+'autyPath=\''+autyPath+'\''
+	open(pathFilePath,'w').write(writeContent)
+	#Result generation.
 	resultFilePath = os.path.join(autyPath,'results',resultFileName)
 	generate_result(resultFilePath,('scriptPath','detail','startTime','endTime','duration'))
 	for scriptPath in selection:
