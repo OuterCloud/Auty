@@ -1,0 +1,69 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-11 12:15:15.150973,2016-10-11 12:15:15.803605,0.652632,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-11 12:15:15.803724,2016-10-11 12:15:17.100613,0.296889,"passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-11 12:15:17.100721,2016-10-11 12:15:18.581588,0.480867,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_followers_test.py,No exception in execute_script method.,2016-10-11 12:15:18.581681,2016-10-11 12:15:18.723614,0.141933,"Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_followers_test.py"", line 35, in <module>
+    basic_assert(get_followers_test('runcheck5@163.com'))
+TypeError: get_followers_test() takes exactly 2 arguments (1 given)
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_header_test.py,No exception in execute_script method.,2016-10-11 12:15:18.723722,2016-10-11 12:15:19.924458,0.200736,"passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py,No exception in execute_script method.,2016-10-11 12:15:19.924563,2016-10-11 12:15:20.998564,0.074001,"passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-11 12:15:20.998661,2016-10-11 12:15:21.127968,0.129307,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py,No exception in execute_script method.,2016-10-11 12:15:21.128068,2016-10-11 12:15:21.716025,0.587957,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py,No exception in execute_script method.,2016-10-11 12:15:21.716121,2016-10-11 12:15:22.293464,0.5773429999999999,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 12:15:22.293567,2016-10-11 12:15:22.878591,0.585024,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-11 12:15:22.878694,2016-10-11 12:15:23.087612,0.208918,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-11 12:15:23.087711,2016-10-11 12:15:23.638831,0.5511199999999999,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-11 12:15:23.638938,2016-10-11 12:15:24.276742,0.6378039999999999,"failed
+failed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-11 12:15:24.277539,2016-10-11 12:15:24.856437,0.578898,"passed
+passed
+"

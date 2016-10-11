@@ -1,13 +1,2 @@
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_header_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_share_board_list.py
+

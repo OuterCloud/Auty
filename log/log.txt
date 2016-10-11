@@ -98,3 +98,66 @@
 2016-10-11 11:59:20:No exception in execute_script method.
 2016-10-11 11:59:20:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
 2016-10-11 11:59:21:No exception in execute_script method.
+2016-10-11 12:12:02:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-11 12:12:03:No exception in execute_script method.
+2016-10-11 12:12:03:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py
+2016-10-11 12:12:04:No exception in execute_script method.
+2016-10-11 12:12:04:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-11 12:12:05:No exception in execute_script method.
+2016-10-11 12:12:05:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_header_test.py
+2016-10-11 12:12:06:No exception in execute_script method.
+2016-10-11 12:12:06:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py
+2016-10-11 12:12:08:No exception in execute_script method.
+2016-10-11 12:12:08:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py
+2016-10-11 12:12:08:No exception in execute_script method.
+2016-10-11 12:12:08:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py
+2016-10-11 12:12:09:No exception in execute_script method.
+2016-10-11 12:12:09:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py
+2016-10-11 12:12:09:No exception in execute_script method.
+2016-10-11 12:12:09:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py
+2016-10-11 12:12:10:No exception in execute_script method.
+2016-10-11 12:12:10:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py
+2016-10-11 12:12:10:No exception in execute_script method.
+2016-10-11 12:12:10:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py
+2016-10-11 12:12:10:No exception in execute_script method.
+2016-10-11 12:12:10:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-11 12:12:11:No exception in execute_script method.
+2016-10-11 12:12:11:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-11 12:12:12:No exception in execute_script method.
+2016-10-11 12:15:15:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py
+2016-10-11 12:15:15:No exception in execute_script method.
+2016-10-11 12:15:15:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py
+2016-10-11 12:15:17:No exception in execute_script method.
+2016-10-11 12:15:17:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
+2016-10-11 12:15:18:No exception in execute_script method.
+2016-10-11 12:15:18:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_followers_test.py
+2016-10-11 12:15:18:No exception in execute_script method.
+2016-10-11 12:15:18:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_header_test.py
+2016-10-11 12:15:19:No exception in execute_script method.
+2016-10-11 12:15:19:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py
+2016-10-11 12:15:20:No exception in execute_script method.
+2016-10-11 12:15:20:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py
+2016-10-11 12:15:21:No exception in execute_script method.
+2016-10-11 12:15:21:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py
+2016-10-11 12:15:21:No exception in execute_script method.
+2016-10-11 12:15:21:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py
+2016-10-11 12:15:22:No exception in execute_script method.
+2016-10-11 12:15:22:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py
+2016-10-11 12:15:22:No exception in execute_script method.
+2016-10-11 12:15:22:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py
+2016-10-11 12:15:23:No exception in execute_script method.
+2016-10-11 12:15:23:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py
+2016-10-11 12:15:23:No exception in execute_script method.
+2016-10-11 12:15:23:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py
+2016-10-11 12:15:24:No exception in execute_script method.
+2016-10-11 12:15:24:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py
+2016-10-11 12:15:24:No exception in execute_script method.
+2016-10-11 12:16:06:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_followers_test.py
+2016-10-11 12:16:08:No exception in execute_script method.
+2016-10-11 12:16:08:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 12:17:10:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_followers_test.py
+2016-10-11 12:17:11:No exception in execute_script method.
+2016-10-11 12:17:11:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 12:31:43:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_share_board_list.py
+2016-10-11 12:31:43:No exception in execute_script method.
+2016-10-11 12:31:43:Exception in execute_script method: [Errno 2] No such file or directory: ''

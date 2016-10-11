@@ -1,0 +1,64 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-11 12:12:02.929384,2016-10-11 12:12:03.850185,0.920801,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-11 12:12:03.850297,2016-10-11 12:12:04.866005,0.015708,"passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-11 12:12:04.866123,2016-10-11 12:12:05.900169,0.034046,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_header_test.py,No exception in execute_script method.,2016-10-11 12:12:05.900263,2016-10-11 12:12:06.754874,0.854611,"passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py,No exception in execute_script method.,2016-10-11 12:12:06.754973,2016-10-11 12:12:08.037899,0.282926,"passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-11 12:12:08.038001,2016-10-11 12:12:08.159845,0.121844,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py,No exception in execute_script method.,2016-10-11 12:12:08.159947,2016-10-11 12:12:09.015214,0.855267,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py,No exception in execute_script method.,2016-10-11 12:12:09.015310,2016-10-11 12:12:09.580838,0.5655279999999999,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 12:12:09.580937,2016-10-11 12:12:10.189784,0.608847,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-11 12:12:10.189884,2016-10-11 12:12:10.418801,0.22891699999999998,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-11 12:12:10.418900,2016-10-11 12:12:10.977379,0.558479,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-11 12:12:10.977482,2016-10-11 12:12:11.590035,0.612553,"failed
+failed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-11 12:12:11.590134,2016-10-11 12:12:12.808620,0.21848599999999999,"passed
+passed
+"
