@@ -1,0 +1,7 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 15:18:34.163766,2016-10-11 15:18:34.977503,0.8137369999999999,"Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py"", line 37, in <module>
+    basic_assert(post_info_test('runcheck5@163.com','1132635','27'))
+TypeError: basic_assert() takes exactly 2 arguments (1 given)
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 15:18:34.977610,2016-10-11 15:18:34.978359,0.000749,

@@ -1,0 +1,10 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 15:26:20.660372,2016-10-11 15:26:21.606595,0.9462229999999999,"{""result"":100,""post"":{""accountId"":""runcheck5@163.com"",""avatarUrl"":""http://cp-quanzi.nos.netease.com/quanzi/200-200_10919_1476088170529_941.jpg?imageView&thumbnail=100y100"",""boardId"":""12"",""boardName"":""测试圈子"",""boardUrl"":""http://cp-quanzi.nos.netease.com/quanzi/484-388_16_1421154613896_1301.png"",""category"":""4"",""collectStatus"":""0"",""commentCount"":""0"",""comments"":[],""createTime"":""2016-10-10 18:01:59"",""duobaoAwardNumber"":"""",""duobaoAwardTime"":"""",""duobaoDesc"":"""",""duobaoParticipateCount"":"""",""duobaoPeriodId"":"""",""duobaoProductId"":"""",""duobaoProductName"":"""",""duobaoTotalTimes"":"""",""followState"":""0"",""id"":""1132635"",""imageList"":[],""istop"":"""",""like"":"""",""likeCount"":""0"",""nickName"":""runcheck**"",""postId"":""1132635"",""sharePage"":{""text"":"""",""thumbnailUrl"":"""",""title"":"""",""url"":""""},""shareUrl"":""ntescaipiao://share?type=1&title=%E5%9C%88%E5%AD%90%E5%B8%96%E5%AD%90%E5%88%86%E4%BA%AB&content=%E5%BF%AB%E6%9D%A5%E4%B8%8B%E8%BD%BD%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%92%8C%E5%BD%A9%E5%8F%8B%E4%BB%AC%E8%81%8A%E5%A4%A9%E5%90%A7&logo=http%3A%2F%2Fxuguoxing.qiniudn.com%2FEveningBadge.png&linkUrl=http%3A%2F%2Fcaipiao.163.com%2Ft%2Fntyyf.html%3Fchannel%3Dwap"",""showTag"":""0"",""text"":""Tylan python send_post_test"",""type"":""1"",""userId"":""10919""},""resultDesc"":""获取帖子信息成功""}
+passed
+passed
+(1132635, 4, 12, 10919, u'Tylan python send_post_test', None, None, Decimal('0.000'), 0, 0, 0, 0, 0, 1, 0, 0, 1, datetime.datetime(2016, 10, 10, 18, 1, 59), datetime.datetime(2016, 10, 10, 18, 1, 59), None, None, 1, 0)
+passed
+passed
+passed
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 15:26:21.606723,2016-10-11 15:26:21.607466,0.000743,

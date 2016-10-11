@@ -1,0 +1,7 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 15:19:49.728614,2016-10-11 15:19:49.753851,0.025237,"  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py"", line 38
+    basic_assert(r,postInfo)
+                           ^
+IndentationError: unindent does not match any outer indentation level
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 15:19:49.754012,2016-10-11 15:19:49.754130,0.000118,
