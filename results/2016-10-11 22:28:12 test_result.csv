@@ -1,0 +1,3 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/get_user_recv_flower_records_test.py,Exception in execute_script method: [Errno 2] No such file or directory: '/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/get_user_recv_flower_records_test.py',2016-10-11 22:28:12.868072,2016-10-11 22:28:12.868164,9.2e-05,
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:28:12.868849,2016-10-11 22:28:12.868959,0.00010999999999999999,

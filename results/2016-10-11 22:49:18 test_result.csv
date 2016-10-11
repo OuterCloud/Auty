@@ -1,0 +1,7 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py,No exception in execute_script method.,2016-10-11 22:49:18.299754,2016-10-11 22:49:18.338340,0.038585999999999995,"  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py"", line 35
+    basic_assert(r,flowerCnt)
+                            ^
+IndentationError: unindent does not match any outer indentation level
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:49:18.340212,2016-10-11 22:49:18.340639,0.00042699999999999997,
