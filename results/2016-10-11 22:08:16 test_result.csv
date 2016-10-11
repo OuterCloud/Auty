@@ -1,0 +1,6 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_informs_test.py,No exception in execute_script method.,2016-10-11 22:08:16.307265,2016-10-11 22:08:17.043093,0.7358279999999999,"{""result"":100,""informList"":[{""createTime"":""2016-03-21 16:51:57"",""userId"":10919,""informId"":""817"",""title"":""网易彩票圈规"",""linkUrl"":""ntescaipiao://circlePostDetail?postId=1678"",""ifRead"":1,""content"":""您好，欢迎来到圈子，请先了解圈规，以便您更好使用。""}],""resultDesc"":""success""}
+failed
+passed
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:08:17.043245,2016-10-11 22:08:17.043773,0.0005279999999999999,
