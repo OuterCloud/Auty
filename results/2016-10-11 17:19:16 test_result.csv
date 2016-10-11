@@ -1,0 +1,7 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_posts_test.py,No exception in execute_script method.,2016-10-11 17:19:16.150591,2016-10-11 17:19:16.877370,0.726779,"{""result"":209,""resultDesc"":""您关注的用户还未发帖"",""posts"":[],""board"":{""boardIconUrl"":""http://cp-quanzi.nos.netease.com/quanzi/484-388_16_1421154613896_1301.png"",""boardId"":""12"",""boardName"":""测试圈子"",""circle"":""1"",""desc"":"""",""peopleNum"":880,""postsNum"":1204114}}
+passed
+passed
+passed
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 17:19:16.877485,2016-10-11 17:19:16.878208,0.000723,

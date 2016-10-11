@@ -1,0 +1,9 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_posts_test.py,No exception in execute_script method.,2016-10-11 17:12:41.511920,2016-10-11 17:12:42.030010,0.5180899999999999,"Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_posts_test.py"", line 37, in <module>
+    r = get_post_test('runcheck5@163.com','12','follow','27')
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_posts_test.py"", line 26, in get_post_test
+    postInfo = get_lottery_post_info(postId)
+NameError: global name 'postId' is not defined
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 17:12:42.030143,2016-10-11 17:12:42.030267,0.000124,
