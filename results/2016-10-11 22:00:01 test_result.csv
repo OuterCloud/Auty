@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_following_test.py,No exception in execute_script method.,2016-10-11 22:00:01.285578,2016-10-11 22:00:02.147098,0.86152,"passed
-passed
-passed
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:00:02.147237,2016-10-11 22:00:02.147864,0.000627,

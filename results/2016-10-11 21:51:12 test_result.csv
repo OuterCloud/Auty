@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/update_user_avatar_test.py,No exception in execute_script method.,2016-10-11 21:51:12.717495,2016-10-11 21:51:13.413449,0.695954,"passed
-passed
-passed
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 21:51:13.413594,2016-10-11 21:51:13.414095,0.0005009999999999999,

@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_informs_test.py,No exception in execute_script method.,2016-10-11 22:09:57.403767,2016-10-11 22:09:58.217793,0.8140259999999999,"passed
-passed
-passed
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:09:58.217943,2016-10-11 22:09:58.218431,0.000488,
