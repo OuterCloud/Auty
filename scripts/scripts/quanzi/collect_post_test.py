@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-import os
-import sys
-sys.path.append("/Users/tylan/Desktop/myAuty/Auty")
-# -*- coding: utf-8 -*-
 import sys
 import os
 import requests
