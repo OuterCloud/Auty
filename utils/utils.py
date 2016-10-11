@@ -14,12 +14,18 @@ def get_specific_time():
 
 def tylan_assert(actual,expected):
 	if actual != expected:
-		print 'failed'
+		result = 'failed'
+		print result
 	else:
-		print 'passed'
+		result = 'passed'
+		print result
+	return result
 
 def tylan_assert_include(actual,expected):
 	if expected not in actual:
-		print 'failed'
+		result = 'failed'
+		print result
 	else:
-		print 'passed'
+		result = 'passed'
+		print result
+	return result

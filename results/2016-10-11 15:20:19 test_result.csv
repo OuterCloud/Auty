@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 15:20:19.132434,2016-10-11 15:20:19.973608,0.841174,"passed
-passed
-(1132635, 4, 12, 10919, u'Tylan python send_post_test', None, None, Decimal('0.000'), 0, 0, 0, 0, 0, 1, 0, 0, 1, datetime.datetime(2016, 10, 10, 18, 1, 59), datetime.datetime(2016, 10, 10, 18, 1, 59), None, None, 1, 0)
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 15:20:19.973716,2016-10-11 15:20:19.974424,0.000708,
