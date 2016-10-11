@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py,No exception in execute_script method.,2016-10-11 22:50:20.147481,2016-10-11 22:50:20.987352,0.8398709999999999,"passed
-passed
-passed
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:50:20.987510,2016-10-11 22:50:20.987952,0.00044199999999999996,

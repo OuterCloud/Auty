@@ -1,9 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py,No exception in execute_script method.,2016-10-11 22:46:55.335575,2016-10-11 22:46:55.823798,0.48822299999999996,"Traceback (most recent call last):
-  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py"", line 32, in <module>
-    basic_assert(get_user_flower_cnt_test('runcheck5@163.com'))
-  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py"", line 21, in get_user_flower_cnt_test
-    flowerCnt = get_lottery_user_flowers_cnt(userId)
-NameError: global name 'userId' is not defined
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:46:55.823991,2016-10-11 22:46:55.824152,0.00016099999999999998,

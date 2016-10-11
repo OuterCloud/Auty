@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_recv_flower_records_test.py,No exception in execute_script method.,2016-10-11 22:31:42.584047,2016-10-11 22:31:43.096438,0.5123909999999999,"{""result"":100,""giftList"":[],""pageNo"":1,""totalPageCnt"":0,""resultDesc"":""成功""}
-failed
-passed
-failed
-"

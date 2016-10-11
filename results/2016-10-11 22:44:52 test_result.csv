@@ -1,7 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py,No exception in execute_script method.,2016-10-11 22:44:52.991745,2016-10-11 22:44:53.181181,0.189436,"Traceback (most recent call last):
-  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py"", line 32, in <module>
-    basic_assert(get_user_flower_count_test('runcheck5@163.com'))
-NameError: name 'get_user_flower_count_test' is not defined
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:44:53.181333,2016-10-11 22:44:53.181472,0.000139,
