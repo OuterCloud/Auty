@@ -1,0 +1,45 @@
+2016-10-11 19:58:52:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 20:00:09:No exception in execute_script method.
+2016-10-11 20:00:09:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 20:02:00:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 20:02:00:No exception in execute_script method.
+2016-10-11 20:02:00:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 20:36:28:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 20:36:29:No exception in execute_script method.
+2016-10-11 20:36:29:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 20:39:31:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 20:39:32:No exception in execute_script method.
+2016-10-11 20:39:32:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:05:58:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:05:58:No exception in execute_script method.
+2016-10-11 21:05:58:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:06:27:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:06:28:No exception in execute_script method.
+2016-10-11 21:06:28:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:07:05:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:07:06:No exception in execute_script method.
+2016-10-11 21:07:06:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:07:37:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:07:39:No exception in execute_script method.
+2016-10-11 21:07:39:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:08:08:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:08:10:No exception in execute_script method.
+2016-10-11 21:08:10:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:09:46:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:09:47:No exception in execute_script method.
+2016-10-11 21:09:47:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:10:08:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:10:10:No exception in execute_script method.
+2016-10-11 21:10:10:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:10:37:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:10:39:No exception in execute_script method.
+2016-10-11 21:10:39:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:11:11:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:11:12:No exception in execute_script method.
+2016-10-11 21:11:12:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:11:32:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:11:33:No exception in execute_script method.
+2016-10-11 21:11:33:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 21:12:11:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py
+2016-10-11 21:12:13:No exception in execute_script method.
+2016-10-11 21:12:13:Exception in execute_script method: [Errno 2] No such file or directory: ''

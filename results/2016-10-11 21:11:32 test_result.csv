@@ -1,0 +1,11 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py,No exception in execute_script method.,2016-10-11 21:11:32.703768,2016-10-11 21:11:33.661244,0.957476,"{""result"":100,""messages"":[],""resultDesc"":""成功""}
+10919
+passed
+passed
+select * from ts_message where userid = '10919'
+((168704, 10919, 10176, u'runcheck**\u5728\u8bc4\u8bba\u91cc@\u4e86\u60a8', 0, datetime.datetime(2016, 3, 23, 19, 49, 45), 2003794, 3), (168734, 10919, 10953, u'\u745e\u5b895\u56de\u590d\u4e86\u4f60\u7684\u5e16\u5b50', 0, datetime.datetime(2016, 5, 25, 14, 4, 3), 2003831, 0), (168735, 10919, 10953, u'\u745e\u5b895\u56de\u590d\u4e86\u4f60\u7684\u5e16\u5b50', 0, datetime.datetime(2016, 5, 25, 14, 4, 15), 2003832, 0))
+select * from ts_message where userid = '10919'
+failed
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 21:11:33.661484,2016-10-11 21:11:33.661980,0.000496,
