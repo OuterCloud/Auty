@@ -3,6 +3,7 @@
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py
 /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py

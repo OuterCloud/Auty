@@ -1,0 +1,46 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-11 11:24:47.099798,2016-10-11 11:24:47.726554,0.626756,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-11 11:24:47.726663,2016-10-11 11:24:48.727569,0.000906,"passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-11 11:24:48.727667,2016-10-11 11:24:49.734043,0.006376,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py,No exception in execute_script method.,2016-10-11 11:24:49.734141,2016-10-11 11:24:50.776516,0.042374999999999996,"passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-11 11:24:50.776619,2016-10-11 11:24:50.894092,0.117473,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/match_post_info_test.py,No exception in execute_script method.,2016-10-11 11:24:50.894182,2016-10-11 11:24:51.556191,0.662009,"{""result"":100,""post"":{""category"":""4"",""createTime"":""2016-10-10 21:15:03"",""userId"":""10919"",""accountId"":"""",""postId"":""1132664"",""boardId"":""12"",""nickName"":""runcheck**"",""istop"":"""",""duobaoPeriodId"":"""",""duobaoProductName"":"""",""duobaoAwardTime"":"""",""duobaoTotalTimes"":"""",""duobaoProductId"":"""",""duobaoParticipateCount"":"""",""duobaoAwardNumber"":"""",""like"":"""",""likeCount"":""0"",""text"":""Tylan python send_post_test"",""commentCount"":""0"",""avatarUrl"":""http://cp-quanzi.nos.netease.com/quanzi/200-200_10919_1476088170529_941.jpg?imageView&thumbnail=100y100"",""followState"":""0"",""showTag"":""0"",""imageList"":[],""sharePage"":{""thumbnailUrl"":"""",""url"":"""",""title"":"""",""text"":""""},""comments"":[{""createTime"":""2016-10-10 22:20:55"",""score"":1476109255000,""commentId"":""2004013"",""postId"":""1132664"",""replyerUserId"":""10919"",""like"":""0"",""likeCount"":""0"",""replyerAvatarUrl"":""http://cp-quanzi.nos.netease.com/quanzi/200-200_10919_1476088170529_941.jpg?imageView&thumbnail=100y100"",""replyerNickName"":""runcheck**"",""text"":""1"",""toUserText"":"""",""toNickName"":"""",""floor"":""2"",""postTitle"":"""",""showTop"":""0"",""replyerAccountId"":""runcheck5@163.com"",""messageId"":null,""toDelete"":""0"",""suppStatus"":"""",""type"":""0""}],""boardName"":""测试圈子"",""shareUrl"":""ntescaipiao://share?type=1&title=%E5%9C%88%E5%AD%90%E5%B8%96%E5%AD%90%E5%88%86%E4%BA%AB&content=%E5%BF%AB%E6%9D%A5%E4%B8%8B%E8%BD%BD%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%92%8C%E5%BD%A9%E5%8F%8B%E4%BB%AC%E8%81%8A%E5%A4%A9%E5%90%A7&logo=http%3A%2F%2Fxuguoxing.qiniudn.com%2FEveningBadge.png&linkUrl=http%3A%2F%2Fcaipiao.163.com%2Ft%2Fntyyf.html%3Fchannel%3Dwap"",""collectStatus"":""0"",""boardUrl"":""http://cp-quanzi.nos.netease.com/quanzi/484-388_16_1421154613896_1301.png"",""duobaoDesc"":"""",""id"":""1132664"",""type"":""1""},""matchStatistics"":{""drawSupp"":""0"",""loseSupp"":""0"",""winSupp"":""0""},""selectType"":"""",""resultDesc"":""获取帖子信息成功""}
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py,No exception in execute_script method.,2016-10-11 11:24:51.556318,2016-10-11 11:24:52.115987,0.559669,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 11:24:52.116079,2016-10-11 11:24:52.704860,0.588781,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-11 11:24:52.704955,2016-10-11 11:24:52.908824,0.203869,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-11 11:24:52.908915,2016-10-11 11:24:53.483122,0.574207,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-11 11:24:53.483242,2016-10-11 11:24:54.067748,0.584506,"failed
+failed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-11 11:24:54.067841,2016-10-11 11:24:54.627992,0.560151,"passed
+passed
+"
