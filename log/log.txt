@@ -1,0 +1,9 @@
+2016-10-11 22:21:00:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/warning_test.py
+2016-10-11 22:21:01:No exception in execute_script method.
+2016-10-11 22:21:01:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 22:21:16:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/warning_test.py
+2016-10-11 22:21:17:No exception in execute_script method.
+2016-10-11 22:21:17:Exception in execute_script method: [Errno 2] No such file or directory: ''
+2016-10-11 22:21:29:execute_script: /Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/warning_test.py
+2016-10-11 22:21:30:No exception in execute_script method.
+2016-10-11 22:21:30:Exception in execute_script method: [Errno 2] No such file or directory: ''

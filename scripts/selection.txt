@@ -1,2 +1,2 @@
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_unread_inform_count_test.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/warning_test.py
 

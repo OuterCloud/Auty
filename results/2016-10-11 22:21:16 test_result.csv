@@ -1,0 +1,7 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/warning_test.py,No exception in execute_script method.,2016-10-11 22:21:16.500516,2016-10-11 22:21:17.246564,0.7460479999999999,"{""result"":100,""isWarning"":0,""resultDesc"":""获取个人提醒成功""}
+failed
+passed
+passed
+"
+,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 22:21:17.246729,2016-10-11 22:21:17.247174,0.000445,
