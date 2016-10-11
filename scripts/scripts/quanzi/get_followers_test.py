@@ -37,7 +37,6 @@ def basic_assert_followers_0(r,followers):
 		for follower in followers:
 			tylan_assert_include(ids,str(follower[1]))
 
-
 def basic_assert_followers_1(r,userid_follow):
 	jsonResult = json.loads(r.content)
 	tylan_assert(jsonResult['resultDesc'],u"成功")
