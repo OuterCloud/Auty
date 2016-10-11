@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-import os
-import sys
-sys.path.append("/Users/tylan/Desktop/myAuty/Auty")
-# -*- coding: utf-8 -*-
 import sys
 import os
 import requests
@@ -12,31 +8,29 @@ import json
 from utils.get_lottery_user_id import get_lottery_user_id
 from utils.utils import tylan_assert
 
-def collect_post_test(accountId,postId,collection):
+def like_test(accountId,postId,like):
 	s = requests.Session()
-	url = 'http://quanzi.caipiao.163.com/client_collectPost.html'
+	url = 'http://quanzi.caipiao.163.com/circle_like.html'
 	data = {
 		'userId':get_lottery_user_id(accountId),
 		'userToken':get_lottery_session_id(accountId),
 		'postId':postId,
-		'collection':collection
+		'like':like
 	}
 	r = s.post(url, data = data)
 	#print r.content
 	return r
 
-def collect_assert(r):
+def like_assert(r):
 	jsonResult = json.loads(r.content)
-	tylan_assert(jsonResult['resultDesc'],u"收藏成功!")
+	tylan_assert(jsonResult['resultDesc'],u"点赞成功!")
 	tylan_assert(jsonResult['result'],100)
-	tylan_assert(jsonResult['collectStatus'],'1')
 
-def  uncollect_assert(r):
+def unlike_assert(r):
 	jsonResult = json.loads(r.content)
-	tylan_assert(jsonResult['resultDesc'],u"取消收藏!")
+	tylan_assert(jsonResult['resultDesc'],u"点赞取消!")
 	tylan_assert(jsonResult['result'],100)
-	tylan_assert(jsonResult['collectStatus'],'0')
 
 if __name__ == '__main__':
-    collect_assert(collect_post_test('runcheck5@163.com','1132664','1'))
-    uncollect_assert(collect_post_test('runcheck5@163.com','1132664','0'))
+    like_assert(like_test('runcheck5@163.com','1132664','1'))
+    unlike_assert(like_test('runcheck5@163.com','1132664','0'))

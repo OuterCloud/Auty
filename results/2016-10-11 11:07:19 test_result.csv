@@ -1,0 +1,49 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-11 11:07:19.995894,2016-10-11 11:07:20.612591,0.6166969999999999,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-11 11:07:20.612703,2016-10-11 11:07:21.593504,0.9808009999999999,"passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-11 11:07:21.593609,2016-10-11 11:07:22.648190,0.054581,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py,No exception in execute_script method.,2016-10-11 11:07:22.648281,2016-10-11 11:07:23.223836,0.5755549999999999,"{""resultDesc"":""点赞成功!"",""result"":100}
+failed
+passed
+Traceback (most recent call last):
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py"", line 41, in <module>
+    like_assert(like_test('runcheck5@163.com','1132664','1'))
+  File ""/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py"", line 32, in like_assert
+    tylan_assert(jsonResult['collectStatus'],'1')
+KeyError: 'collectStatus'
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-11 11:07:23.223937,2016-10-11 11:07:23.342342,0.118405,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py,No exception in execute_script method.,2016-10-11 11:07:23.342438,2016-10-11 11:07:23.939309,0.5968709999999999,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 11:07:23.939407,2016-10-11 11:07:24.514406,0.5749989999999999,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-11 11:07:24.514503,2016-10-11 11:07:24.716346,0.201843,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-11 11:07:24.716464,2016-10-11 11:07:25.267258,0.550794,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-11 11:07:25.267353,2016-10-11 11:07:25.839600,0.572247,"failed
+failed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-11 11:07:25.840142,2016-10-11 11:07:26.405061,0.564919,"passed
+passed
+"

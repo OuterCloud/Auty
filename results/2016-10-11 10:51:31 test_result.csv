@@ -1,0 +1,39 @@
+scriptPath,detail,startTime,endTime,duration,result
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/batch_follow_test.py,No exception in execute_script method.,2016-10-11 10:51:31.303860,2016-10-11 10:51:31.342241,0.038381,
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-11 10:51:31.342386,2016-10-11 10:51:32.395027,0.052641,"{""result"":100,""resultDesc"":""收藏成功!"",""collectStatus"":""1""}
+failed
+passed
+passed
+{""result"":100,""resultDesc"":""取消收藏!"",""collectStatus"":""0""}
+failed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-11 10:51:32.395131,2016-10-11 10:51:33.736125,0.34099399999999996,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/login_test.py,No exception in execute_script method.,2016-10-11 10:51:33.736221,2016-10-11 10:51:33.848221,0.11199999999999999,"No login interface.
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py,No exception in execute_script method.,2016-10-11 10:51:33.848321,2016-10-11 10:51:34.676804,0.828483,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-11 10:51:34.676906,2016-10-11 10:51:35.514348,0.8374419999999999,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/report_test.py,No exception in execute_script method.,2016-10-11 10:51:35.514451,2016-10-11 10:51:35.740909,0.226458,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-11 10:51:35.741008,2016-10-11 10:51:36.303921,0.562913,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-11 10:51:36.304016,2016-10-11 10:51:36.848818,0.544802,"failed
+failed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/upload_images_test.py,No exception in execute_script method.,2016-10-11 10:51:36.848921,2016-10-11 10:51:37.399243,0.550322,"passed
+passed
+"
