@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_messages_test.py,No exception in execute_script method.,2016-10-11 20:36:28.544372,2016-10-11 20:36:29.283583,0.739211,"{""result"":100,""messages"":[],""resultDesc"":""成功""}
-passed
-passed
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 20:36:29.283737,2016-10-11 20:36:29.284171,0.000434,
