@@ -1,6 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_posts_test.py,No exception in execute_script method.,2016-10-11 17:13:16.447834,2016-10-11 17:13:17.057322,0.6094879999999999,"<Response [200]>
-failed
-failed
-"
-,Exception in execute_script method: [Errno 2] No such file or directory: '',2016-10-11 17:13:17.057484,2016-10-11 17:13:17.057604,0.00011999999999999999,
