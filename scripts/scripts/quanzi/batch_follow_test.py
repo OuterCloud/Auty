@@ -4,13 +4,14 @@ import os
 import requests
 from utils.execute_sql_mysql import exec_sql
 from utils.sql_info import qz_host,qz_user,qz_pwd,qz_db_name
-from utils.get_lottery_session_id import get_lottery_session_id
+from actions.quanzi.get_lottery_session_id import get_lottery_session_id
 import json
 from utils.utils import tylan_assert
+from constants.quanzi_constant import quanzi_url
 
 def batch_follow_test(accountId):
 	s = requests.Session()
-	url = 'http://quanzi.caipiao.163.com/client_batchFollow.html'
+	url = quanzi_url+'client_batchFollow.html'
 	#Get userId from mysql db ts_user_info.
 	sql = 'select userid from ts_user_info where email = \''+accountId+'\''
 	r = exec_sql(sql,qz_host,qz_user,qz_pwd,qz_db_name)

@@ -17,7 +17,7 @@ def check_if_python(fileName):
 		return True
 
 def create_selection_file(selection):
-	filePath = sys.path[0]+'/selection.txt'
+	filePath = sys.path[0]+'/all_scripts_selection.txt'
 	file = open(filePath,'w')
 	for scriptPath in selection:
 		file.write(scriptPath+'\n')

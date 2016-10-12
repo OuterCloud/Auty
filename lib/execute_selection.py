@@ -11,6 +11,7 @@ from generate_result import generate_result
 import subprocess
 
 def execute_selection():
+	#Read selection.
 	selection = read_selection()
 	genTime = get_local_time()
 	resultFileName = genTime+' test_result.csv'
@@ -25,9 +26,11 @@ def execute_selection():
 	for scriptPath in selection:
 		result = str_2_tuple(scriptPath)
 		startTime = get_specific_time()
+		#Execution of scripts.
 		ret,result2 = execute_script(scriptPath,autyPath)
 		endTime = get_specific_time()
 		duration = (endTime-startTime).microseconds*0.000001
+		#Generation of results.
 		result = result+result2+str_2_tuple(startTime)+str_2_tuple(endTime)+str_2_tuple(duration)+str_2_tuple(ret)
 		generate_result(resultFilePath,result)
 

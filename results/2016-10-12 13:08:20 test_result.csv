@@ -1,0 +1,4 @@
+scriptPath,detail,startTime,endTime,duration,result
+,"Exception in execute_script method: file() argument 1 must be encoded string without NULL bytes, not str",2016-10-12 13:08:20.915754,2016-10-12 13:08:20.915842,8.8e-05,
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,2016-10-12 13:08:20.916683,2016-10-12 13:08:25.717933,0.80125,
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,2016-10-12 13:08:25.718299,2016-10-12 13:08:29.109828,0.39152899999999996,

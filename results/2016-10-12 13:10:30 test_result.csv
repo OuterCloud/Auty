@@ -1,0 +1,79 @@
+scriptPath,detail,startTime,endTime,duration,result
+,"Exception in execute_script method: file() argument 1 must be encoded string without NULL bytes, not str",2016-10-12 13:10:30.986007,2016-10-12 13:10:30.986103,9.6e-05,
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/collect_post_test.py,No exception in execute_script method.,2016-10-12 13:10:30.987003,2016-10-12 13:10:32.061783,0.07478,"passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/follow_test.py,No exception in execute_script method.,2016-10-12 13:10:32.061883,2016-10-12 13:10:33.245116,0.18323299999999998,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_followers_test.py,No exception in execute_script method.,2016-10-12 13:10:33.245221,2016-10-12 13:10:35.288918,0.043697,"passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_posts_test.py,No exception in execute_script method.,2016-10-12 13:10:35.289079,2016-10-12 13:10:35.901072,0.611993,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py,No exception in execute_script method.,2016-10-12 13:10:35.901167,2016-10-12 13:10:36.493977,0.59281,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_header_test.py,No exception in execute_script method.,2016-10-12 13:10:36.494071,2016-10-12 13:10:37.250353,0.756282,"passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/gift_flower_test.py,No exception in execute_script method.,2016-10-12 13:10:37.250466,2016-10-12 13:10:38.173794,0.9233279999999999,"passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/like_test.py,No exception in execute_script method.,2016-10-12 13:10:38.173892,2016-10-12 13:10:39.210234,0.036342,"passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/my_collect_posts_test.py,No exception in execute_script method.,2016-10-12 13:10:39.210332,2016-10-12 13:10:39.779695,0.569363,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/post_info_test.py,No exception in execute_script method.,2016-10-12 13:10:39.779789,2016-10-12 13:10:40.648132,0.868343,"passed
+passed
+passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/search_users_test.py,No exception in execute_script method.,2016-10-12 13:10:40.648228,2016-10-12 13:10:41.217950,0.569722,"passed
+passed
+passed
+"
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/send_post_test.py,No exception in execute_script method.,2016-10-12 13:10:41.218046,2016-10-12 13:10:41.797102,0.579056,"failed
+failed
+"
