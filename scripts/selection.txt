@@ -1,2 +1,2 @@
-/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/get_user_flower_cnt_test.py
+/Users/tylan/Desktop/myAuty/Auty/scripts/scripts/quanzi/gift_flower_test.py
 
