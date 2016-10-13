@@ -1,2 +1,0 @@
-scriptPath,detail,startTime,endTime,duration,result
-,"Exception in execute_script method: file() argument 1 must be encoded string without NULL bytes, not str",2016-10-12 12:54:22.221903,2016-10-12 12:54:22.222001,9.8e-05,
