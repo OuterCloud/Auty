@@ -5,9 +5,9 @@ import os
 def create_selection():
 	path = sys.path[0]
 	selection = []
-	for i in os.walk(path+'/scripts'):
+	for i in os.walk(os.path.join(path,'scripts')):
 		for fileName in i[2:3][0]:
-			filePath = i[0]+'/'+fileName
+			filePath = os.path.join(i[0],fileName)
 			if(check_if_python(filePath)):
 				selection.append(filePath)
 	return selection
@@ -17,7 +17,7 @@ def check_if_python(fileName):
 		return True
 
 def create_selection_file(selection):
-	filePath = sys.path[0]+'/all_scripts_selection.txt'
+	filePath = os.path.join(sys.path[0],'all_scripts_selection.txt')
 	file = open(filePath,'w')
 	for scriptPath in selection:
 		file.write(scriptPath+'\n')
