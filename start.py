@@ -4,6 +4,5 @@ from lib.recovery_code import recovery_code
 import os
 
 if __name__ == '__main__':
-	autyPath = os.getcwd()
 	#Execute scripts.
 	execute_selection()
