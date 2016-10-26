@@ -14,7 +14,8 @@ def execute_selection():
 	#Read selection.
 	selection = read_selection()
 	genTime = get_local_time()
-	resultFileName = genTime+' test_result.csv'
+	resultFileName = genTime+' test_result'
+	resultFileName = resultFileName.replace(':','_')
 	autyPath = os.getcwd()
 	#Save the auty path into file.
 	pathFilePath = os.path.join(autyPath,'utils','root_path.py')
