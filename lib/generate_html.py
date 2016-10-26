@@ -18,7 +18,11 @@ def write_csv_to_html(csv_path,save_path):
 	<table border="1">
 	""")
 	for line in reader:
-		if(('failed' in line) or ('No exception' not in line)):
+		sig = True
+		for each in line:
+			if(('failed' in each) or ('Exception in' in each)):
+				sig = False
+		if sig == False:
 			html.write('<tr bgcolor="#8B2323">')
 		else:
 			html.write('<tr bgcolor="#00FF7F">')
@@ -29,7 +33,3 @@ def write_csv_to_html(csv_path,save_path):
 	</table>
 	</body>
 	""")
-
-if __name__ == '__main__':
-	#write_csv_to_html('D:\\Auty\\results\\2016-10-25 15_20_17 test_result.csv')
-	pass
