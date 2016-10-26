@@ -6,8 +6,11 @@ Auty框架配置说明：
 5.results文件夹中存放生成的测试结果报告
 6.log文件夹中存放测试用例运行时产生的日志
 7.data文件夹中存放支持测试用例脚本运行的数据文件
-8.运行setup.py文件自动安装框架所需要的python库
-9.运行start.py文件自动运行scripts文件夹中的测试脚本
+8.constants文件夹中存放常量文件
+
+运行create_selection.py文件生成包含所有脚本的suite
+运行setup.py文件自动安装框架所需要的python库
+运行start.py文件自动运行scripts文件夹中的测试脚本
 
 作者：蓝天祐（网易北京研发中心——电子商务部——后台测试工程师）
 框架名字：Auty——Au是Auto的缩写，ty是天祐的首字母。
