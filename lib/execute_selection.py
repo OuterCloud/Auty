@@ -16,7 +16,8 @@ def execute_selection():
 	genTime = get_local_time()
 	resultFileName = genTime+' test_result'
 	resultFileName = resultFileName.replace(':','_')
-	autyPath = os.getcwd()
+	#autyPath = os.getcwd()
+	autyPath = os.path.dirname(os.path.dirname(__file__))
 	#Save the auty path into file.
 	pathFilePath = os.path.join(autyPath,'utils','root_path.py')
 	writeContent = '# -*- coding: utf-8 -*-\n'+'autyPath=\''+autyPath+'\''
