@@ -32,4 +32,5 @@ def write_csv_to_html(csv_path,save_path):
 	html.write("""
 	</table>
 	</body>
+	</html>
 	""")
