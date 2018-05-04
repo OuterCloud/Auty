@@ -40,9 +40,10 @@
     1. 运行Auty/setup.py文件
     2. 编写接口测试python脚本并放到Auty/scripts/scripts目录（或子目录）下
     3. 运行Auty/scripts/create_selection.py文件生成Auty/scripts/all_scripts_selection.txt文件
-    4. 修改Auty/scripts/all_scripts_selection.txt文件自定义test_selection.txt文件（名字随意起）并放到Auty/scripts/selections文件夹下
-    5. 运行Auty/start.py文件开始接口自动化测试
-    6. 在Auty/results文件夹下生成的测试结果文件中查看测试结果
+    4. 修改Auty/scripts/all_scripts_selection.txt文件
+    5. 自定义test_selection.txt文件（名字随意起）并放到Auty/scripts/selections文件夹下
+    6. 运行Auty/start.py文件开始接口自动化测试
+    7. 在Auty/results文件夹下生成的测试结果文件中查看测试结果
     
 ## More
 * [python2](https://www.python.org/downloads/)
